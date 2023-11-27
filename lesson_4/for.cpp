@@ -41,7 +41,7 @@ int previous() {
     std::cout << std::endl;
 
     for(auto& v : values) {
-        std::cout << v << ', '; // TODO
+        std::cout << v << ', '; // TO DO
     }
     std::cout << std::endl;
 
