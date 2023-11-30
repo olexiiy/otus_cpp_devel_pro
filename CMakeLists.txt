@@ -1,5 +1,5 @@
-project (otus-cpp)
 cmake_minimum_required (VERSION 3.10)
+project (otus-cpp)
 add_subdirectory(lesson_1)
 add_subdirectory(lesson_2)
 add_subdirectory(lesson_3)

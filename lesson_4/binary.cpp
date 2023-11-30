@@ -19,5 +19,6 @@ int main() {
 
     std::cout << "+(int8_t)0b10000000 = " << +(int8_t)0b10000000ul << std::endl;
 
+    std::cout << " Fin\n" ;
     return 0;
 }

@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 
 project(04.cpp)
 
 add_executable(assert assert.cpp)
 add_executable(binary binary.cpp)
-add_executable(move move.cpp)
+add_executable(move_04  move.cpp)
 add_executable(literal literal.cpp)
 add_executable(using using.cpp)
 add_executable(nullptr nullptr.cpp)
